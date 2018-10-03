@@ -1,0 +1,12 @@
+body {
+  font-family: 'Quicksand';
+  text-align: center;
+  background: #ccc; }
+  body .container {
+    width: 400px;
+    margin: 0 auto; }
+  body p {
+    margin-bottom: 30px;
+    font-size: 18px; }
+
+/*# sourceMappingURL=main.prefixed.css.map */
